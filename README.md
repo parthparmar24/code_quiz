@@ -2,6 +2,8 @@ JavaScript Quiz App
 
 This is a JavaScript-based quiz application designed to test users' knowledge of fundamental JavaScript concepts. The application features an interactive quiz format with multiple-choice questions, a timer, score tracking, and high score recording. It's a simple yet engaging way for users to assess their understanding of JavaScript.
 
+![Alt Text](./assets/images/04-web-apis-homework-demo.gif)
+
 Features
 
 1. Randomly Generated Questions
